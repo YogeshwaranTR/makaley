@@ -3,7 +3,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>welcome to merge confilt</p>
+    <h2>Test</h2>
+    <h3>sudha</h3>
+    <p>vedhika</p>
+    <h1>trytioporft</h1>
+    <p>sudha baby</p>
+    <p>welcome to merge confilt</p>
     <h2>merge</h2>
     <h2>USER1.0</h2>
     <h3>user2</h3>
